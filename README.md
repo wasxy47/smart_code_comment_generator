@@ -84,7 +84,7 @@ Built using three progressively sophisticated architectures — vanilla LSTM, LS
 
 ### Training Curve
 
-![Training Loss Curve](loss_curve.png)
+![Training Loss Curve](loss_curve.png.png)
 
 ### Qualitative Examples
 
